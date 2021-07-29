@@ -85,7 +85,7 @@ img{
     height: 300px;
     background: url(road.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 
 #heromugs{
@@ -179,7 +179,7 @@ tr:nth-of-type(odd){
      height: 300px;
     background-image: url(coffeecup.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;    
 }
 form{
     display: flex;
@@ -194,6 +194,8 @@ audio {
     display: block;
     margin-top: 1em;
 }
+
+/*Mobile versions*/
 @media only screen and (min-width: 600px) {
   header {
     text-align: center;
@@ -214,12 +216,15 @@ audio {
     #homehero{
         height: 50vh;
         background-image: url(hero.jpg);
+        background-size: cover;
     }
     #heromugs{
         background-image: url(heromugs.jpg);
+        background-size: cover;
     }
     #heroguitar{
         background-image: url(heroguitar.jpg);
+        background-size: cover;
     }
     #flow{
         flex-direction: row;
@@ -251,6 +256,7 @@ audio {
     }
     #herojobs{
         background-image: url(herojobs.jpg);
+        background-size: cover;
     }
 }
 @media only screen and (min-width: 1024px) {

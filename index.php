@@ -22,8 +22,7 @@
         </nav>
             
         <main>
-            <div id="homehero">
-             </div>
+            <div id="homehero"></div>
             <h2>Follow the Winding Road to JavaJam</h2>
             <p>We’re a little out of the way, but take a drive in the country down Garrett Bay Road to JavaJam today! Indulge in our locally roasted free-trade coffee and home-made pastries. You’ll feel right at home at JavaJam!</p>
             <p>
