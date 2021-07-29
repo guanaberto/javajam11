@@ -10,7 +10,7 @@
     <body>
         <div id="wrapper">
         <header>
-           <a href="index.html"> <h1>JavaJam Coffee Bar</h1></a>
+           <a href="index.php"> <h1>JavaJam Coffee Bar</h1></a>
         </header>
          <nav>
             <ul>
