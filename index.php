@@ -14,7 +14,7 @@
         </header>
          <nav>
             <ul>
-             <li><a href="index.html">Home</a></li> 
+             <li><a href="index.php">Home</a></li> 
              <li><a href="menu.html">Menu</a></li>  
              <li><a href="music.html">Music</a></li> 
              <li><a href="jobs.html">Jobs</a></li>  
@@ -50,7 +50,7 @@
         <footer>
             
                 Copyright &copy; 2020 JavaJam Coffee Bar<br>
-                <a href="mailto:patel@gmail.com">miten@patel.com</a>
+                <a href="mailto:dguanaburbano6644@gmail.com">dguanaburbano6644@patel.com</a>
                
         </footer>
         </div>
